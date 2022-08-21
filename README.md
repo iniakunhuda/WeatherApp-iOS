@@ -3,7 +3,7 @@ Learning iOS Development with SwiftUI: Build a weather app
 
 
 | ![App screenshot](Assets/screenshot0.png) | ![App screenshot](Assets/screenshot1.png) |
-
+--- | ---
 
 ## Feature
 ### V1.0
