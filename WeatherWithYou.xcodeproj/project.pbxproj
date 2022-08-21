@@ -97,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				1A8688AA28B13FD800AC8991 /* README.md */,
+				1AE6018028B27C7A00E24411 /* Assets */,
 				1A7C6DFD28B0D05800738C67 /* WeatherWithYou */,
 				1A7C6E1328B0D05A00738C67 /* WeatherAppTests */,
 				1A7C6E1D28B0D05A00738C67 /* WeatherAppUITests */,
@@ -190,6 +191,13 @@
 				1A8688A028B12E8800AC8991 /* weatherData.json */,
 			);
 			path = Data;
+			sourceTree = "<group>";
+		};
+		1AE6018028B27C7A00E24411 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Assets;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
