@@ -21,7 +21,7 @@ Learning iOS Development with SwiftUI: Build a weather app
 - AsyncImage untuk meload image dari internet
 - Membuat tampilan rounded dengan extensions
 - Deploy & install app tanpa harus pakai testflight (https://yuvsinha01.medium.com/install-and-share-ipa-file-on-ios-without-using-testflight-7a8709a6ceb5)
-- Gimana cara setup .env ya di swiftui?
+- Setup Environment Variable di XCode
 
 
 ## Next Features
